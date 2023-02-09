@@ -45,8 +45,9 @@ code {
   color: black;
 }
 
-.granularity-options {
-  margin-right: 50px;
+.granularity-options,
+.visability-options {
+  margin: 0 50px 20px 0;
   display: inline-block;
 }
 
